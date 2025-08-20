@@ -7,8 +7,8 @@ Her ödev **Jupyter Notebook (.ipynb)** formatında hazırlanmıştır.
 
 ## 📂 İçindekiler
 
-- **Ödev 1:** Veri Tipleri ve Operatörler  
-- **Ödev 2:** (Yakında)  
-- **Ödev 3:** (Yakında)  
+- [Ödev 1 - Veri Tipleri ve Operatörler](./Ertuğrul%20Emre%20Köksal%20Ödev%201.ipynb)  
+- Ödev 2 - (Yakında)  
+- Ödev 3 - (Yakında)  
 
 ---
