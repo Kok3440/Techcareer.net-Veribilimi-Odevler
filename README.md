@@ -13,6 +13,7 @@ Her ödev **Jupyter Notebook (.ipynb)** formatında hazırlanmıştır.
 
 
 ## Projeler
+-[Proje 3 - Kitap-Satış-Analazi](./kitap_satis_analiz.py)
 
 
 ---
