@@ -9,6 +9,6 @@ Her ödev **Jupyter Notebook (.ipynb)** formatında hazırlanmıştır.
 
 - [Ödev 1 - Veri Tipleri ve Operatörler](./Ödev%201.ipynb)  
 - [Ödev 2 - Python-Temel-Veri-isleme](./odev2.ipynb) 
-- Ödev 3 - (Yakında)  
+- [Ödev 3 - Python-İleri-Seviye-Veri-Yapıları](./ödev3.ipynb)
 
 ---
