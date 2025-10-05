@@ -14,6 +14,8 @@ Her ödev **Jupyter Notebook (.ipynb)** formatında hazırlanmıştır.
 
 ## Projeler
 -[Proje 3 - Kitap-Satış-Analazi](./kitap_satis_analiz.py)
+-[Bitirme projesi 1 -Veri Filtreleme](./Veri_filtreleme_sıralama_projesi.ipynb)
+-[Bitirme Projesi 2 -Veri Görselleştirme](./Veri_Görsellestirme_odevi.ipynb)
 
 
 ---
